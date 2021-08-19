@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602180415992.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C2064E02",
+    "lastKnownWriteTime" : 4477300536,
+    "last_content_update" : 1602180415992,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1DF41346",
+        "caption" : "CoronaD2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=CoronaD2&cache_key=1DF41346",
+        "displayedObservations" : "267",
+        "environment" : "",
+        "object" : "CoronaD2",
+        "preview" : "0",
+        "totalObservations" : "267",
+        "variables" : "265"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

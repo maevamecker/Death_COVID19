@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602180416053.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EB3645DB",
+    "lastKnownWriteTime" : 8299690329011021172,
+    "last_content_update" : 1602180416053,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9D8BDE41",
+        "caption" : "Corona_V",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Corona_V&cache_key=9D8BDE41",
+        "displayedObservations" : "67017",
+        "environment" : "",
+        "object" : "Corona_V",
+        "preview" : "0",
+        "totalObservations" : "67017",
+        "variables" : "6"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

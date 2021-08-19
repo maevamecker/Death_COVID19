@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602154516935.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3668761283",
+    "id" : "58F2447A",
+    "lastKnownWriteTime" : 1602249480,
+    "last_content_update" : 1602249480321,
+    "path" : "~/Desktop/MSC/UE3 Programming/Advanced R programming for business/Project final/Script app.R",
+    "project_path" : "Script app.R",
+    "properties" : {
+        "cursorPosition" : "235,34",
+        "scrollLine" : "231",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

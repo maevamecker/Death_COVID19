@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602180416392.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7B63ECB5",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1602180416392,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D77C7AE",
+        "caption" : "LOCKDOWN",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=LOCKDOWN&cache_key=D77C7AE",
+        "displayedObservations" : "125",
+        "environment" : "",
+        "object" : "LOCKDOWN",
+        "preview" : "0",
+        "totalObservations" : "125",
+        "variables" : "3"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
